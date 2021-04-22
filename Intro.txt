@@ -1,0 +1,10 @@
+Curso: Introducción al paradigma de objetos		9hs.
+Días: Jueves	10:00 a 13:00 hs
+Profe: Carlos Ríos		carlos.rios@educacionit.com
+Github: https://github.com/crios2020/ParadigmaJueves
+
+Materiales: alumni.educacionit.com
+			user: email
+			pass: dni
+			
+			
