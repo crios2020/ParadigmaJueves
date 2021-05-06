@@ -26,6 +26,8 @@ public class Paradigma2{
 		System.out.println(ana.getEstado());
 		System.out.println(mario.getEstado());
 		
+	
+		
 	}
 }
 
@@ -71,7 +73,7 @@ class Cliente{
 	//}
 	
 	//Un cliente siempre tiene una cuenta, un cliente se crea con una cuenta obligatoriamente.
-	//Una cuenta sea compartida por más de un cliente.
+	//Una cuenta puede compartida por más de un cliente.
 	public Cliente(int nro, String nombre, Cuenta cuenta){
 		this.nro=nro;
 		this.nombre=nombre;
